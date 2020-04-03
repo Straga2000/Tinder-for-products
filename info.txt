@@ -1,0 +1,11 @@
+spad = small padding class
+container = gives space for test to breath
+row = make things go in row
+col-md-n = share content in n/12 of the width given (n between 1 and 12)
+col-sm-n = gives some small amount of space to the object in a row
+col-lg-n = gives some large amount of space to the object in a row
+premium-item = round image, center text
+sub-list = nice list of elements
+
+fundalul este doar o propietate din CSS
+
